@@ -75,12 +75,12 @@
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "electron": "18.2.2",
-    "electron-builder": "22.11.11",
+    "electron": "22.3.25",
+    "electron-builder": "24.13.3",
     "electron-notarize": "^0.2.1",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "prettier": "1.15.3",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "unzipper": "^0.9.11"
   },
   "dependencies": {

@@ -10,21 +10,21 @@
   "dependencies": {
     "@electron/remote": "^2.0.8",
     "archiver": "^2.1.1",
-    "async": "^2.6.0",
-    "axios": "^0.19.1",
+    "async": "^2.6.4",
+    "axios": "^1.7.3",
     "chokidar": "^3.5.1",
     "discord-rich-presence": "^0.0.8",
     "dotenv": "^4.0.0",
     "electron-editor-context-menu": "^1.1.1",
     "electron-is": "^2.4.0",
     "electron-log": "^4.1.1",
-    "electron-updater": "4.2.0",
+    "electron-updater": "6.3.0",
     "fs-extra": "^3.0.1",
-    "jimp": "^0.2.28",
-    "live-server": "^1.2.0",
+    "jimp": "^0.22.12",
+    "live-server": "^1.2.2",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
-    "minimist": "^1.2.3",
-    "ws": "^5.1.1"
+    "minimist": "^1.2.6",
+    "ws": "^5.2.4"
   }
 }
